@@ -28,7 +28,8 @@ This chatbot will help you answer the chat when you're not free.
 
 ---
 
-## 📁 Project Structure
+## DEMO
+![Demo](https://github.com/user-attachments/assets/21f7e659-b707-4d74-b0c5-839995171e24)
 
 ## Run:
 - Download the files and open the IDE.
